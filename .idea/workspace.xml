@@ -1,8 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5a6bb7c5-b760-4595-9bc4-50107bb8bd6d" name="Changes" comment="change workspace.xml">
+    <list default="true" id="5a6bb7c5-b760-4595-9bc4-50107bb8bd6d" name="Changes" comment="Mentoria and Curso classes">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/desafio-dio-POO/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/desafio-dio-POO/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/desafio-dio-POO/com/kennedfer/dio/desafio/dominio/Curso.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/desafio-dio-POO/com/kennedfer/dio/desafio/dominio/Curso.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/desafio-dio-POO/com/kennedfer/dio/desafio/dominio/Mentoria.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/desafio-dio-POO/com/kennedfer/dio/desafio/dominio/Mentoria.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/kennedfer/dio/desafio/dominio/Curso.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/kennedfer/dio/desafio/dominio/Curso.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/kennedfer/dio/desafio/dominio/Mentoria.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/kennedfer/dio/desafio/dominio/Mentoria.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,6 +42,15 @@
     "RunOnceActivity.ShowReadmeOnStart": "true"
   }
 }]]></component>
+  <component name="RunManager">
+    <configuration name="config" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="desafio-dio-POO" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -59,7 +74,14 @@
       <option name="project" value="LOCAL" />
       <updated>1671881788273</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Mentoria and Curso classes">
+      <created>1671882555761</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1671882555761</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -76,6 +98,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="first commit" />
     <MESSAGE value="change workspace.xml" />
-    <option name="LAST_COMMIT_MESSAGE" value="change workspace.xml" />
+    <MESSAGE value="Mentoria and Curso classes" />
+    <option name="LAST_COMMIT_MESSAGE" value="Mentoria and Curso classes" />
   </component>
 </project>
